@@ -1,0 +1,45 @@
+﻿  Bank_System_OOP.cpp
+C:\Users\hamed\source\repos\Bank_System_OOP\clsString.h(114,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsString.h(134,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsString.h(314,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsString.h(384,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsString.h(414,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsDate.h(129,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsDate.h(264,17): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsUtil.h(195,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsUtil.h(216,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsUser.h(161,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank_System_OOP.cpp')
+      C:\Users\hamed\source\repos\Bank_System_OOP\clsUser.h(15,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsScreen.h(17,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsBankClient.h(188,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank_System_OOP.cpp')
+      C:\Users\hamed\source\repos\Bank_System_OOP\clsBankClient.h(15,9):
+      see declaration of 'clsBankClient::stTransferRecord'
+  
+C:\Users\hamed\source\repos\Bank_System_OOP\clsBankClient.h(348,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Users\hamed\source\repos\Bank_System_OOP\clsBankClient.h(275,1): warning C4715: 'clsBankClient::find': not all control paths return a value
+C:\Users\hamed\source\repos\Bank_System_OOP\clsUser.h(306,1): warning C4715: 'clsUser::save': not all control paths return a value
+  Bank_System_OOP.vcxproj -> C:\Users\hamed\source\repos\Bank_System_OOP\x64\Debug\Bank_System_OOP.exe
